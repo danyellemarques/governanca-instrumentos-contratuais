@@ -1,0 +1,4 @@
+# Ignore internal config/agents docs if any
+.agents/
+*.tmp
+*.log
