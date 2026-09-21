@@ -134,7 +134,7 @@ erDiagram
 ├── 04_views_functions_triggers.sql # VIEWs, rotinas de calculo de vigencia e triggers
 ├── img/
 │   ├── dashboard_powerbi.png       # Captura do painel executivo no Power BI
-│   └── quadro_jira_kanban.png      # Fluxo de entregas no Jira Kanban
+│   └── quadro_kanban_jira.png      # Fluxo de entregas no Jira Kanban
 └── README.md                       # Documentacao completa do projeto
 ```
 
@@ -211,7 +211,7 @@ O painel foi construído no **Power BI Desktop** consumindo nativamente o banco 
 
 O projeto foi gerenciado através de um quadro **Kanban no Jira**, aplicando boas práticas de gestão:
 
-![Quadro Jira Kanban](img/quadro_jira_kanban.png)
+![Quadro Jira Kanban](img/quadro_kanban_jira.png)
 
 | Ticket | Escopo | Status |
 | :--- | :--- | :---: |
