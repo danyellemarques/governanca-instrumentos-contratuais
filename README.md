@@ -220,9 +220,9 @@ O projeto foi gerenciado através de um quadro **Kanban no Jira**, aplicando boa
 | **PSQL-3** | Criar Scripts DML (Massa de Dados) | Concluído |
 | **PSQL-4** | Consultas Analíticas Básicas e Filtros | Concluído |
 | **PSQL-5** | Consultas Intermediárias (JOINs, Agrupamentos, Gargalos) | Concluído |
-| **PSQL-6** | Estruturas Avançadas (VIEWs, Triggers, Functions) | Concluído |
-| **PSQL-7** | Conexão com Power BI e Construção do Dashboard | Concluído |
-| **PSQL-8** | Documentação e Publicação no GitHub | Concluído |
+| **PSQL-6** | Estruturas Avançadas (VIEWs, Triggers, Funções) | Concluído |
+| **PSQL-7** | Conexão com Power BI | Concluído |
+| **PSQL-8** | Publicação no GitHub | Concluído |
 
 ---
 
