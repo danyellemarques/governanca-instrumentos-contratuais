@@ -1,6 +1,6 @@
 # Sistema de Governança e Controle de Instrumentos Contratuais
 
-> **Projeto de Dados aplicado à Governança e PMO:** Modelagem relacional em **PostgreSQL**, consultas analíticas, rotinas em **PL/pgSQL**, painel executivo no **Power BI** e gestão do fluxo no **Jira**.
+> **Projeto de Dados aplicado à Governança e PMO:** Modelagem relacional em **PostgreSQL**, consultas analíticas, rotinas automatizadas com Triggers, painel executivo no **Power BI** e gestão do fluxo no **Jira**.
 
 ---
 
